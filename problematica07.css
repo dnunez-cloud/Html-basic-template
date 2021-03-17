@@ -1,0 +1,53 @@
+body {
+    padding-left:18px;
+}
+
+header {
+    line-height : 20px;
+}
+#date {
+    font-size: 11px;
+    line-height: 17px;
+    padding: 15px 0;
+    display: block;
+}
+h1 {
+    max-width:1200px;
+    font-size: 45px;
+    font-family: sans-Serif;
+    font-weight: 600;
+    color: black;
+}
+h2 {
+    font-size:18px;
+    font-weight: 800;
+    font-style: italic;
+}
+#neg1 {
+    font-weight:bold;
+    text-decoration:none;
+    color:#3b3b3b;
+}
+
+figure {
+    max-width:750px;
+    color:#3b3b3b;
+    margin-left:-3px;
+    font-size:15px;
+}
+.paragraph {
+    max-width:800px;
+    color:#3b3b3b;
+    font-size:18px;
+    max-width:770px;
+    letter-spacing: normal;
+    line-height: 1.7;
+}
+.neg {
+    font-weight: bold;
+    color:#1f1f1f;
+}
+.italics {
+    font-style: italic;
+    color:#3b3b3b;
+}
