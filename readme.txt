@@ -1,6 +1,6 @@
 Noticia problemática 6:
 
-https://www.infobae.com/america/america-latina/2021/03/08/como-hizo-chile-para-obtener-rapidamente-suficientes-vacunas-contra-el-covid-19-para-toda-su-poblacion/?utm_source=Facebook&utm_medium=CPC&utm_campaign=PaidFb&utm_content=as&fbclid=IwAR0zxEx5i9P_Qll1qFXzpFuuSBZXbc7tvTNgXCeoMnnckrxbI6BavxHSvAM
+https://www.infobae.com/america/america-latina/2021/03/08/como-hizo-chile-para-obtener-rapidamente-suficientes-vacunas-contra-el-covid-19-para-toda-su-poblacion/
 
 Solo código html se encuentra en el archivo index.html
 
