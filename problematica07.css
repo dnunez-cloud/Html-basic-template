@@ -1,9 +1,17 @@
 body {
     padding-left:18px;
 }
-
 header {
     line-height : 20px;
+}
+.hpv {
+    font-size: 13px;
+    text-decoration:none;
+    color:#1f1f1f;
+}
+#arrow {
+    font-size:11px;
+    font-weight: 1px;
 }
 #date {
     font-size: 11px;
@@ -30,16 +38,51 @@ h2 {
 }
 
 figure {
-    max-width:750px;
-    color:#3b3b3b;
+    max-width:900px;
     margin-left:-3px;
-    font-size:15px;
+    font-size:12.5px;
+    font-family: sans-serif;
+}
+#img1 {
+    width: 890px; height: 520px;
+}
+#img2 {
+    width: 890px; height: 430px;
+}
+#img3 {
+    width: 200px; height: 520px;
+}
+#sep {
+    border-top:1px solid;
+    border-bottom:1px solid;
+    margin-left:-3px;
+    font-size:20px;
+    font-weight: bold;
+    line-height: 50px;
+    padding: 10px;
 }
 .paragraph {
-    max-width:800px;
-    color:#3b3b3b;
-    font-size:18px;
-    max-width:770px;
+    width:880px;
+    color:black;
+    font-size:17px;
+    font-family: sans-serif;
+    letter-spacing: normal;
+    line-height: 1.7;
+}
+.paragraph-right {
+    width:540px;
+    color:black;
+    font-size:17px;
+    font-family: sans-serif;
+    letter-spacing: normal;
+    line-height: 1.7;
+    padding-left:330px;
+}
+.paragraph-left {
+    width:280px;
+    color:black;
+    font-size:17px;
+    font-family: sans-serif;
     letter-spacing: normal;
     line-height: 1.7;
 }
