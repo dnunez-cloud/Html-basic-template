@@ -6,14 +6,15 @@ header {
     max-width:1100px;
 }
 #hal {
-    color: orange;
+    font-weight:bold;
     font-size: 22px;
     text-decoration:none;
+    color: orange;
 }
 h1 {
     font-size: 41px;
 }
-h3 {
+h2 {
     font-size:25px;
     font-weight: normal;
     color:#3b3b3b;
@@ -47,6 +48,16 @@ figure {
 }
 .italics {
     font-style: italic;
+    color:#3b3b3b;
+}
+#linkprob {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration:none;
+    color:rgb(27, 21, 10);
+}
+#footer {
+    padding-top:10px;
     color:#3b3b3b;
 }
 
