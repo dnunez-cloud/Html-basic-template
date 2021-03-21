@@ -42,6 +42,8 @@ figure {
     margin-left:-3px;
     font-size:12.5px;
     font-family: sans-serif;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 #img1 {
     width: 890px; height: 520px;
@@ -50,17 +52,23 @@ figure {
     width: 890px; height: 430px;
 }
 #img3 {
-    width: 200px; height: 520px;
+    width: 600px; height: 350px;
+    float:right;
 }
 #sep {
-    border-top:1px solid;
-    border-bottom:1px solid;
-    margin-left:-3px;
-    font-size:20px;
+    font-size:18px;
     font-weight: bold;
     line-height: 50px;
+    margin-left:-14px;
     padding: 10px;
 }
+.line {
+    border-top: 1px solid black;
+    height: 2px;
+    width: 890px;
+    padding: 0;
+    margin-left:-5px;
+  }
 .paragraph {
     width:880px;
     color:black;
@@ -68,6 +76,9 @@ figure {
     font-family: sans-serif;
     letter-spacing: normal;
     line-height: 1.7;
+}
+#publicity {
+    float:left;
 }
 .paragraph-right {
     width:540px;
@@ -86,11 +97,13 @@ figure {
     letter-spacing: normal;
     line-height: 1.7;
 }
-.neg {
+#neg {
     font-weight: bold;
-    color:#1f1f1f;
+    font-size: 20px;
+    text-decoration:none;
+    color:rgb(27, 21, 10);
 }
-.italics {
-    font-style: italic;
+#footer {
+    padding-top:10px;
     color:#3b3b3b;
 }
